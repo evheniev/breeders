@@ -1,0 +1,20 @@
+.img {
+    max-width: 100%;
+}
+
+.slogan-red {
+    text-align: center;
+    display: block;
+    color: #E2001A;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.slogan-gray {
+    text-align: center;
+    color: #808285;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+}
