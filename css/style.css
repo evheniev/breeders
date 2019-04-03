@@ -12,6 +12,7 @@
 }
 
 .slogan-gray {
+    display: block;
     text-align: center;
     color: #808285;
     text-transform: uppercase;
